@@ -1,0 +1,232 @@
+2025-08-24 21:21:30,921 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-24 21:21:31,085 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR '1'='1' -- . Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 21:21:31,085 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-24 21:21:31,610 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR '1'='1' #. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 21:21:31,637 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-24 21:21:31,994 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 21:21:32,864 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='%20OR%201=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 21:21:39,215 - ERROR - Error testing XSS: HTTPSConnectionPool(host='lms.jspmjscoe.edu.in', port=443): Read timed out. (read timeout=5)
+2025-08-24 21:54:53,870 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-24 21:54:54,026 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-24 21:54:54,026 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-24 21:54:54,074 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR '1'='1' -- . Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 21:54:54,986 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or '1'='1' #. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 21:54:55,728 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 21:54:55,827 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or 1=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 21:54:56,083 - INFO - Cross-Site Scripting (XSS) detected at https://lms.jspmjscoe.edu.in/course/search.php. Learn more: https://owasp.org/www-community/attacks/xss/
+2025-08-24 21:55:00,953 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-24 21:55:01,109 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-24 21:55:01,126 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-24 21:55:01,126 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or '1'='1' -- . Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 21:55:01,630 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or '1'='1' #. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 21:55:02,405 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='%20OR%201=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 21:55:03,122 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAxPTEj. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 21:55:28,917 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-24 21:55:29,076 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-24 21:55:29,076 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-24 21:55:29,082 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='%20OR%20'1'='1'%20--%20. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 21:55:29,601 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=#1 '''R1' ' =O. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 21:55:30,342 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 21:55:30,518 - INFO - Cross-Site Scripting (XSS) detected at https://lms.jspmjscoe.edu.in/course/search.php. Learn more: https://owasp.org/www-community/attacks/xss/
+2025-08-24 21:55:30,634 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or 1=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 21:55:30,934 - INFO - Cross-Site Scripting (XSS) detected at https://lms.jspmjscoe.edu.in/course/search.php. Learn more: https://owasp.org/www-community/attacks/xss/
+2025-08-24 22:00:41,619 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-24 22:00:41,773 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAnMSc9JzEnIC0tIA==. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 22:00:41,773 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-24 22:00:41,773 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-24 22:00:42,681 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR '1'='1' #. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 22:00:43,333 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 22:00:43,474 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR 1=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 22:09:34,291 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-24 22:09:34,471 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-24 22:09:34,471 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-24 22:09:34,471 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAnMSc9JzEnIC0tIA==. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 22:09:34,986 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAnMSc9JzEnICM=. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 22:09:35,753 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=R -1-O' =1. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 22:09:36,533 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAxPTEj. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 22:18:41,264 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-24 22:18:41,444 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-24 22:18:41,444 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-24 22:18:41,475 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or '1'='1' -- . Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 22:18:41,968 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAnMSc9JzEnICM=. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 22:18:42,722 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 22:18:43,005 - INFO - Cross-Site Scripting (XSS) detected at https://lms.jspmjscoe.edu.in/course/search.php. Learn more: https://owasp.org/www-community/attacks/xss/
+2025-08-24 22:18:43,080 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR 1=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 22:30:36,389 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-24 22:30:36,551 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-24 22:30:36,551 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-24 22:30:36,604 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR '1'='1' -- . Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 22:30:37,098 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR '1'='1' #. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 22:30:37,948 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 22:30:38,688 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAxPTEj. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-24 22:30:38,990 - INFO - Cross-Site Scripting (XSS) detected at https://lms.jspmjscoe.edu.in/course/search.php. Learn more: https://owasp.org/www-community/attacks/xss/
+2025-08-24 22:45:12,169 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-4877' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at C:\Users\DARSHAN WALHER\AppData\Local\Programs\Python\Python312\Lib\site-packages\tornado\websocket.py:1086> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "C:\Users\DARSHAN WALHER\AppData\Local\Programs\Python\Python312\Lib\site-packages\streamlit\web\bootstrap.py", line 347, in run
+    if asyncio.get_running_loop().is_running():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: no running event loop
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DARSHAN WALHER\AppData\Local\Programs\Python\Python312\Lib\site-packages\tornado\websocket.py", line 1088, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DARSHAN WALHER\AppData\Local\Programs\Python\Python312\Lib\site-packages\tornado\websocket.py", line 1090, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+2025-08-25 00:09:59,614 - INFO - Business Logic Flaw detected at https://www.mitalandicampus.edu.in. Learn more: https://owasp.org/
+2025-08-25 00:10:00,567 - ERROR - Error fetching forms: 406 Client Error: Not Acceptable for url: https://www.mitalandicampus.edu.in/
+2025-08-25 00:10:00,629 - INFO - Injection detected at https://www.mitalandicampus.edu.in?id=' or '1'='1' -- . Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 00:10:00,660 - INFO - Security Misconfiguration detected at https://www.mitalandicampus.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 00:10:01,012 - INFO - Injection detected at https://www.mitalandicampus.edu.in?id=JyBPUiAnMSc9JzEnICM=. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 00:10:01,395 - INFO - Injection detected at https://www.mitalandicampus.edu.in?id=' OR 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 00:10:01,765 - INFO - Injection detected at https://www.mitalandicampus.edu.in?id=JyBPUiAxPTEj. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 00:33:49,227 - INFO - Business Logic Flaw detected at https://www.youtube.com. Learn more: https://owasp.org/
+2025-08-25 00:33:49,712 - INFO - Security Misconfiguration detected at https://www.youtube.com. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 00:33:49,717 - INFO - Injection detected at https://www.youtube.com?id=' OR '1'='1' -- . Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 00:33:50,077 - INFO - Injection detected at https://www.youtube.com?id= #O1'''1=R'  '. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 00:33:50,393 - INFO - Injection detected at https://www.youtube.com?id=JyBPUiAxPTEtLQ==. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 00:33:50,715 - INFO - Injection detected at https://www.youtube.com?id=' OR 1=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 00:37:06,300 - INFO - Business Logic Flaw detected at https://www.youtube.com. Learn more: https://owasp.org/
+2025-08-25 00:37:06,596 - INFO - Injection detected at https://www.youtube.com?id='%20OR%20'1'='1'%20--%20. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 00:37:06,599 - INFO - Sensitive Data Exposure detected at https://www.youtube.com. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 00:37:06,599 - INFO - Security Misconfiguration detected at https://www.youtube.com. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 00:37:06,876 - INFO - Injection detected at https://www.youtube.com?id=' or '1'='1' #. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 00:37:07,149 - INFO - Injection detected at https://www.youtube.com?id=' OR 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 00:37:07,441 - INFO - Injection detected at https://www.youtube.com?id=' OR 1=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:09:17,489 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-25 01:09:17,734 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAnMSc9JzEnIC0tIA==. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:09:17,734 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 01:09:18,587 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 01:09:18,599 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAnMSc9JzEnICM=. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:09:18,920 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:09:18,968 - INFO - Cross-Site Scripting (XSS) detected at https://lms.jspmjscoe.edu.in/course/search.php. Learn more: https://owasp.org/www-community/attacks/xss/
+2025-08-25 01:09:19,014 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='%20OR%201=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:09:19,405 - INFO - Cross-Site Scripting (XSS) detected at https://lms.jspmjscoe.edu.in/course/search.php. Learn more: https://owasp.org/www-community/attacks/xss/
+2025-08-25 01:10:51,603 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-25 01:10:51,991 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 01:10:52,449 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 01:10:52,665 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='%20OR%20'1'='1'%20--%20. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:10:53,607 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='%20OR%20'1'='1'%20#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:10:54,074 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:10:54,209 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=R1#'1  O=. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:10:54,315 - INFO - Cross-Site Scripting (XSS) detected at https://lms.jspmjscoe.edu.in/course/search.php. Learn more: https://owasp.org/www-community/attacks/xss/
+2025-08-25 01:16:37,972 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-25 01:16:38,121 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id= R ='' ' -1''O1-. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:16:38,129 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 01:16:38,140 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 01:16:38,618 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id==' ' #' R'1O1'. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:16:38,710 - INFO - Cross-Site Scripting (XSS) detected at https://lms.jspmjscoe.edu.in/course/search.php. Learn more: https://owasp.org/www-community/attacks/xss/
+2025-08-25 01:16:39,285 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:16:40,034 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAxPTEj. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:24:18,985 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-25 01:24:19,146 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or '1'='1' -- . Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:24:19,149 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 01:24:19,560 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 01:24:19,633 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=''' 1  ''=R1O#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:24:20,390 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAxPTEtLQ==. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:24:21,083 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='%20OR%201=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:24:44,523 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-25 01:24:44,668 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 01:24:44,668 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAnMSc9JzEnIC0tIA==. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:24:44,686 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 01:24:45,169 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR '1'='1' #. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:24:46,369 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='%20OR%201=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:24:46,508 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAxPTEj. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:38:15,269 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-25 01:38:15,424 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 01:38:15,424 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='%20OR%20'1'='1'%20--%20. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:38:15,424 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 01:38:15,941 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAnMSc9JzEnICM=. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:38:16,846 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:38:17,565 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAxPTEj. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:44:04,889 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-25 01:44:05,063 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 01:44:05,063 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 01:44:05,063 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id= 1='R 1 '-'' 'O-. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:44:05,562 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=#O =R1 ''''' 1. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:44:06,859 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAxPTEtLQ==. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:44:07,034 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR 1=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:44:07,467 - INFO - Cross-Site Scripting (XSS) detected at https://lms.jspmjscoe.edu.in/course/search.php. Learn more: https://owasp.org/www-community/attacks/xss/
+2025-08-25 01:56:43,375 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-25 01:56:43,531 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' 1 1O'-R-''' = . Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:56:43,537 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 01:56:43,541 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 01:56:44,026 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or '1'='1' #. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:56:44,718 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='%20OR%201=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 01:56:45,458 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or 1=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 02:10:15,333 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-25 02:10:15,531 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='O1'-1 '  R'-'= . Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 02:10:15,572 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 02:10:15,731 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 02:10:16,031 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAnMSc9JzEnICM=. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 02:10:17,008 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 02:10:17,707 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or 1=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 02:16:38,284 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-25 02:16:38,464 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 02:16:38,465 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAnMSc9JzEnIC0tIA==. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 02:16:38,470 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 02:16:38,961 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR '1'='1' #. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 02:16:39,657 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAxPTEtLQ==. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 02:16:39,967 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='%20OR%201=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 02:19:55,948 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-25 02:19:56,094 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='%20OR%20'1'='1'%20--%20. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 02:19:56,094 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 02:19:56,111 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 02:19:56,592 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or '1'='1' #. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 02:19:57,303 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 02:19:57,603 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR 1=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 02:35:50,706 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-25 02:35:50,849 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 02:35:50,849 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR '1'='1' -- . Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 02:35:50,857 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 02:35:51,332 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAnMSc9JzEnICM=. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 02:35:52,025 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 02:35:52,132 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='%20OR%201=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 02:35:52,902 - INFO - Cross-Site Scripting (XSS) detected at https://lms.jspmjscoe.edu.in/course/search.php. Learn more: https://owasp.org/www-community/attacks/xss/
+2025-08-25 03:16:41,082 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-25 03:16:41,245 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 03:16:41,245 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 03:16:41,245 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='%20OR%20'1'='1'%20--%20. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 03:16:41,717 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR '1'='1' #. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 03:16:42,095 - INFO - Cross-Site Scripting (XSS) detected at https://lms.jspmjscoe.edu.in/course/search.php. Learn more: https://owasp.org/www-community/attacks/xss/
+2025-08-25 03:16:42,440 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 03:16:42,670 - INFO - Cross-Site Scripting (XSS) detected at https://lms.jspmjscoe.edu.in/course/search.php. Learn more: https://owasp.org/www-community/attacks/xss/
+2025-08-25 03:16:42,730 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='%20OR%201=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 04:14:43,232 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-25 04:14:43,434 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 04:14:43,434 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=JyBPUiAnMSc9JzEnIC0tIA==. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 04:14:43,447 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 04:14:43,932 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or '1'='1' #. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 04:14:44,828 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 04:14:45,455 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=OR=  11#'. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 04:34:05,318 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-25 04:34:05,555 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR '1'='1' -- . Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 04:34:05,561 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 04:34:05,565 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 04:34:06,468 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or '1'='1' #. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 04:34:06,775 - INFO - Cross-Site Scripting (XSS) detected at https://lms.jspmjscoe.edu.in/course/search.php. Learn more: https://owasp.org/www-community/attacks/xss/
+2025-08-25 04:34:06,992 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 04:34:07,083 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or 1=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 04:38:36,203 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-25 04:38:36,355 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=-' =R1O'- 1''  '. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 04:38:36,355 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 04:38:36,372 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 04:38:36,868 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='%20OR%20'1'='1'%20#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 04:38:37,693 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 04:38:38,363 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR 1=1#. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 04:38:38,679 - INFO - Cross-Site Scripting (XSS) detected at https://lms.jspmjscoe.edu.in/course/search.php. Learn more: https://owasp.org/www-community/attacks/xss/
+2025-08-25 04:38:43,845 - INFO - Business Logic Flaw detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/
+2025-08-25 04:38:44,025 - INFO - Sensitive Data Exposure detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Sensitive_Data_Exposure
+2025-08-25 04:38:44,058 - INFO - Security Misconfiguration detected at https://lms.jspmjscoe.edu.in. Learn more: https://owasp.org/www-community/attacks/Misconfiguration
+2025-08-25 04:38:44,066 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR '1'='1' -- . Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 04:38:44,562 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' or '1'='1' #. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 04:38:45,234 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id=' OR 1=1--. Learn more: https://owasp.org/www-community/attacks/Injection
+2025-08-25 04:38:45,941 - INFO - Injection detected at https://lms.jspmjscoe.edu.in?id='%20OR%201=1#. Learn more: https://owasp.org/www-community/attacks/Injection
