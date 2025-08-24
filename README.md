@@ -27,22 +27,13 @@ git clone https://github.com/your-username/ai-web-scanner.git
 cd ai-web-scanner
 pip install -r requirements.txt
 For Streamlit UI:
-
-bash
-Copy
-Edit
 pip install streamlit
 streamlit run app.py
+
 ⚙️ Usage
 1. Run Scanner from CLI
-bash
-Copy
-Edit
 python scanner.py --url http://example.com
 2. Run with Streamlit UI
-bash
-Copy
-Edit
 streamlit run app.py
 Enter website URL
 
@@ -55,9 +46,6 @@ Apply auto-patch
 3. CI/CD Integration (Example: GitHub Actions)
 Add this step to your .github/workflows/main.yml:
 
-yaml
-Copy
-Edit
 - name: Run AI Vulnerability Scanner
   run: python scanner.py --url http://localhost:3000
 📊 Example Report
@@ -70,9 +58,6 @@ Suggested Fix: Use parameterized queries instead of string concatenation.
 Auto-Patch: ✅ Applied successfully.
 
 📂 Project Structure
-bash
-Copy
-Edit
 ├── app.py              # Streamlit frontend
 ├── scanner.py          # Core scanner logic
 ├── helper.py           # Utilities (reporting, saving results)
